@@ -1,6 +1,6 @@
 {
-  "name": "mambo/mambo-php-sdk",
-  "description": "Mambo PHP Library",
+  "name": "rui-git/mambo-php-sdk",
+  "description": "Non official Mambo PHP Library",
   "keywords": [
     "mambo",
     "game",
@@ -13,6 +13,10 @@
     {
       "name": "test",
       "homepage": "http://api.mambo.io/"
+    },
+    {
+      "name": "Rui AVELINO",
+      "homepage": "https://www.kokoroe.fr/"
     }
   ],
   "require": {
