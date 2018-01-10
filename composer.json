@@ -1,0 +1,26 @@
+{
+  "name": "mambo/mambo-php-sdk",
+  "description": "Mambo PHP Library",
+  "keywords": [
+    "mambo",
+    "game",
+    "gamification",
+    "api"
+  ],
+  "homepage": "http://api.mambo.io/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "test",
+      "homepage": "http://api.mambo.io/"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "files": ["sdk/Mambo.php"]
+  }
+}
