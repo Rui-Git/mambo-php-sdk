@@ -1,7 +1,7 @@
 # Mambo php SDK
 
 
-This is not an officia product. For the sake of my developpement I've took the current version of the SDK to generate a composer compatible project.
+This is not an official product. For the sake of my developpement, I've took the current version of the SDK to generate a composer compatible project.
 
 This project will not be supported when Mambo.io will release theire own version.
 
