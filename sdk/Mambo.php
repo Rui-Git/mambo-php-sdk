@@ -20,6 +20,7 @@
 
 // Require all common Mambo classes
 require_once(dirname(__FILE__) . '/Common/OAuth.php');
+require_once(dirname(__FILE__) . '/Common/OAuthUtil.php');
 require_once(dirname(__FILE__) . '/Common/Client.php');
 require_once(dirname(__FILE__) . '/Common/BaseAbstract.php');
 require_once(dirname(__FILE__) . '/Common/APIUrlBuilder.php');
